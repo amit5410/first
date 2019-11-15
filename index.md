@@ -3,7 +3,7 @@
    <head>
    	<meta charset="utf-8">
    	<meta name="viewport" content="width=device-width, initial-scale=1">
-   	<link rel="stylesheet" href="{% static 'style2.css' %}">
+   	
     <!-- Start: injected by AdGuard -->
 <script src="//local.adguard.com/adguard-ajax-api/injections/content-script.js?ts=1547616292.966989&amp;sb=0&amp;domain=www.coroflot.com&amp;mask=103" type="text/javascript" nonce="6572EAE5FAD44F98BB7B63EB13EA9717"></script>
 <script src="//local.adguard.com/adguard-ajax-api/injections/userscripts/Adguard Assistant?ts=1547616294.334422" type="text/javascript" nonce="6572EAE5FAD44F98BB7B63EB13EA9717"></script>
