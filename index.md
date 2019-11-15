@@ -1,5 +1,3 @@
-{% load static from staticfiles %}
-
 <!DOCTYPE html>
 <html>
    <head>
@@ -180,5 +178,4 @@ function myFunction() {
 </footer>
 </div>
 </html>
-{% block content %}
-{% endblock %}
+
