@@ -1,0 +1,18 @@
+<h1 class="springy-text">Contact Us</h1>
+<h3>Ready to Collaborate?</h3>
+<h3>Have a question?</h3>
+
+<h6>I can't wait to hear from you!</h6>
+<br>
+<h7>Email me - </h7>
+<h7>Find me on social media</h7>
+<br>
+
+<h2>Or, reach me through the contact form below:</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <div class="form-actions">
+      <button type="submit">Send</button>
+    </div>
+</form>
